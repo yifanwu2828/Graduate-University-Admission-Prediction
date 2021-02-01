@@ -12,5 +12,6 @@ Dataset :https://www.kaggle.com/nitishabharathi/university-recommendation
 TODO: EDA
 
 TODO: preprocessing dataset
-Duedate: meet agian on Wedsday, Feb 3rd, at 8:00PM PST
+Duedate: meet again on Wednesday, Feb 3rd, at 8:00PM PST
+
 
