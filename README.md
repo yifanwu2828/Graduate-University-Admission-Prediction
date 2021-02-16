@@ -28,7 +28,7 @@ Currently, we have implemented six binary classification models to predict wheth
 
 #### Implementation
 
-Run all blocks in the **Classifiers.ipynd** file.
+Run all blocks in the **Classifiers.ipynb** file.
 
 #### Results
 
