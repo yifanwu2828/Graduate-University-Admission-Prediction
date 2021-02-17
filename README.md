@@ -34,10 +34,10 @@ Run all blocks in the **Classifiers.ipynb** file.
 
 |                     | Accuracy | Precision | Recall |
 | ------------------- | -------- | --------- | ------ |
-| Linear regression   | 0.604    | 0.628     | 0.569  |
-| Logistic regression | 0.604    | 0.628     | 0.573  |
-| Random forest       | 0.678    | 0.705     | 0.647  |
-| GBDT                | 0.677    | 0.694     | 0.670  |
-| SVM                 | 0.609    | 0.628     | 0.593  |
-| XGBoost             | 0.682    | 0.697     | 0.679  |
+| Linear regression   | 0.610    | 0.628     | 0.600  |
+| Logistic regression | 0.610    | 0.627     | 0.604  |
+| Random forest       | 0.684    | 0.711     | 0.652  |
+| GBDT                | 0.690    | 0.705     | 0.688  |
+| SVM                 | 0.617    | 0.637     | 0.600  |
+| XGBoost             | 0.694    | 0.713     | 0.682  |
 
