@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+
+  web-server:
+    build:
+      context: ./web
+    ports:
+      - 7791:6000 # host : container
+    env_file:
+      ./credentials.env
+    volumes:
+      - ./web/src:/app
+    container_name: ece143_web
+
+  db-server:
+    image: mysql:latest
+    restart: always
+    env_file:
+      ./credentials.env
+    ports:
+      - 3307:3307 # host : container
+    volumes:
+      - ./db:/var/lib/mysql # persistent DB when container is stopped
+    container_name: ece143_db
+
+volumes:
+  database:
