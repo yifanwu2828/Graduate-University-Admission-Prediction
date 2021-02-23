@@ -26,6 +26,8 @@ Currently, we have implemented six binary classification models to predict wheth
 + Gradient boosted decision tree (GBDT),
 + Support vector machine (SVM),
 + XGBoost.
++ Least Squares Binary Classifier
++ Multilayer Perceptron
 
 #### Implementation
 
