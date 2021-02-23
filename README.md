@@ -1,6 +1,7 @@
 # ECE143_Group6
 ECE 143  Group6 Winter 2021
-# Countdown: 10 day left!!
+# Project website: http://123.57.56.85:7791/
+# Countdown: 4 days left!!
 # Presentation Date: Feb 26th
 
 
