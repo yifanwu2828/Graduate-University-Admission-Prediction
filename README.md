@@ -43,4 +43,5 @@ Run all blocks in the **Classifiers.ipynb** file.
 | GBDT                | 0.690    | 0.705     | 0.688  |
 | SVM                 | 0.617    | 0.637     | 0.600  |
 | XGBoost             | 0.694    | 0.713     | 0.682  |
-
+| Least Squares Binary| 0.000    | 0.000     | 0.000  |
+| MLP                 | 0.000    | 0.000     | 0.000  |
