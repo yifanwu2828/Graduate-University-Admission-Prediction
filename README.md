@@ -13,8 +13,8 @@ Dataset :https://www.kaggle.com/nitishabharathi/university-recommendation
 Done:Exploratory data analysis (EDA) analyzes and investigates data sets and summarizes their main characteristics, often employing data visualization methods.
 Feb 16th
 
-TODO: Feature Engineering -- Chris Yifan
-TODO: Modelling -- David, Kimi
+Done: Feature Engineering -- Yifan Feb 23th
+Dobe: Modelling -- David, Kimi Feb 23th
 
 ### Modelling
 
