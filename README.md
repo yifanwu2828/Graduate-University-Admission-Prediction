@@ -8,11 +8,6 @@ ECE 143  Group6 Winter 2021
 Goal: Predict the probability a student will be admitted to the specific graduate university
 Dataset :https://www.kaggle.com/nitishabharathi/university-recommendation
 
-Done:Exploratory data analysis (EDA) analyzes and investigates data sets and summarizes their main characteristics, often employing data visualization methods.
-Feb 16th
-
-Done: Feature Engineering -- Yifan Feb 23th
-Dobe: Modelling -- David, Kimi Feb 23th
 
 ### Modelling
 
