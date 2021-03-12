@@ -9,7 +9,7 @@ Project website: http://123.57.56.85:7791/ <br>
 
 ## Modelling
 
-Currently, we have implemented six binary classification models to predict whether a student would be admitted by his target school. The models includes:
+Currently, we have implemented eight binary classification models to predict whether a student would be admitted by his target school. The models includes:
 
 + Linear regression,
 + Logistic regression,
