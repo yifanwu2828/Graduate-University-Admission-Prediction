@@ -1,6 +1,5 @@
 # Graduate University Admission Prediction
-### ECE 143 Project
-### Group6 Winter 2021
+### ECE 143, Group6 Winter 2021
 <img src="plot_Result/stonybrook/Stony Brook_Corr.png" height="400">
 
 Goal: Predict the probability a student will be admitted to the specific graduate university <br>
