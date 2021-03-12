@@ -1,7 +1,7 @@
-# ECE 143 Project: Graduate University Admission Prediction
-<img src="plot_Result/stonybrook/Stony Brook_Corr.png" height="400">
-
+# Graduate University Admission Prediction
+### ECE 143 Project
 ### Group6 Winter 2021
+<img src="plot_Result/stonybrook/Stony Brook_Corr.png" height="400">
 
 Goal: Predict the probability a student will be admitted to the specific graduate university <br>
 Dataset :https://www.kaggle.com/nitishabharathi/university-recommendation <br>
