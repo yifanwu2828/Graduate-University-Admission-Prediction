@@ -3,13 +3,13 @@ ECE 143  Group6 Winter 2021
 # Project website: http://123.57.56.85:7791/
 
 
-## Graduate University Admission Prediction
+# Graduate University Admission Prediction
 
 Goal: Predict the probability a student will be admitted to the specific graduate university
 Dataset :https://www.kaggle.com/nitishabharathi/university-recommendation
 
 
-### Modelling
+## Modelling
 
 Currently, we have implemented six binary classification models to predict whether a student would be admitted by his target school. The models includes:
 
@@ -22,7 +22,7 @@ Currently, we have implemented six binary classification models to predict wheth
 + Least Squares Binary Classifier
 + Multilayer Perceptron
 
-#### Implementation
+## Implementation
 ### First six models:
 + **six_Classifiers.py**: the first six models.
 ### Least Squares Binary Classifier
@@ -32,7 +32,8 @@ Currently, we have implemented six binary classification models to predict wheth
 ### Utils:
 + **DataLoader.py**: Read the data.
 + **evaluation.py**: Compute the accuracy, precision, and recall of a model.
-#### Results
+
+## Results
 
 |                     | Accuracy | Precision | Recall |
 | ------------------- | -------- | --------- | ------ |
