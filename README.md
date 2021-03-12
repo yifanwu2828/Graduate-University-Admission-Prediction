@@ -24,14 +24,14 @@ Currently, we have implemented six binary classification models to predict wheth
 
 ## Implementation
 ### First six models:
-+ **six_Classifiers.py**: the first six models.
++ **src/six_Classifiers.py**: train and evaluate the first six models.
 ### Least Squares Binary Classifier
 + Run all blocks in **Least_Squares_Binary_Classifiers.ipynb** for the Least Squares Binary model.
 ### MLP
 + Run all blocks in **Multilayer_proceptron_model.ipynb** for the MLP model. And the functions used in this model are:
 ### Utils:
-+ **DataLoader.py**: Read the data.
-+ **evaluation.py**: Compute the accuracy, precision, and recall of a model.
++ **src/DataLoader.py**: Read the data.
++ **src/evaluation.py**: Compute the accuracy, precision, and recall of a model.
 
 ## Results
 
