@@ -1,12 +1,9 @@
-# ECE143_Group6
+# ECE143_Group6 --- Graduate University Admission Prediction
 ECE 143  Group6 Winter 2021
-# Project website: http://123.57.56.85:7791/
 <img src="plot_Result/stonybrook/Stony Brook_Corr.png" height="400">
-
-# Graduate University Admission Prediction
-
 Goal: Predict the probability a student will be admitted to the specific graduate university
 Dataset :https://www.kaggle.com/nitishabharathi/university-recommendation
+Project website: http://123.57.56.85:7791/
 
 
 ## Modelling
