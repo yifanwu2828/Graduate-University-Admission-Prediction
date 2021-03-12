@@ -1,7 +1,7 @@
 # ECE143_Group6
 ECE 143  Group6 Winter 2021
 # Project website: http://123.57.56.85:7791/
-
+<img src="plot_Result/stonybrook/Stony Brook_Corr.png" height="400">
 
 # Graduate University Admission Prediction
 
