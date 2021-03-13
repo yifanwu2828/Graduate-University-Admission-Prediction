@@ -1,4 +1,8 @@
 class BaseLayer(object):
+    '''
+    description: abstract base class for layers
+    all layer obect should have forward and backward function for the neural network
+    '''
     def __init__(self):
         pass
 
