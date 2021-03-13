@@ -24,15 +24,15 @@ Currently, we have implemented eight binary classification models to predict whe
 ### First six models:
 + **src/six_Classifiers.py**: train and evaluate the first six models.
 ### Least Squares Binary Classifier
-+ Run all blocks in **Least_Squares_Binary_Classifiers.ipynb** for the Least Squares Binary model.
++ Run **src/Least_Squares_Binary_Classifiers.py** for the Least Squares Binary model.
 ### MLP
-+ Run all blocks in **Multilayer_proceptron_model.ipynb** for the MLP model. And the layers used in this model are:
++ Run **src/Multilayer_proceptron_model.py** for the MLP model. And the layers used in this model are:
 + Linear Layer
 + ReLU Layer
 + Softmax Layer
 + Loss function Layer
 ### CNN
-+ Run all blocks in **torch model.ipynb** for the CNN model. (reshaped 9 features to 3 * 3 image)
++ Run **src/torch model.py** for the CNN model. (reshaped 9 features to 3 * 3 image)
 ### Utils:
 + **src/DataLoader.py**: Read the data.
 + **src/evaluation.py**: Compute the accuracy, precision, and recall of a model.
