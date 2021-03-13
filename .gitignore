@@ -1,6 +1,6 @@
 # ipython notebook checkpoints
 .ipynb_checkpoints
-
+.idea
 # Vitualenv
 .env
 .venv
