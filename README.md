@@ -26,7 +26,14 @@ Currently, we have implemented eight binary classification models to predict whe
 ### Least Squares Binary Classifier
 + Run all blocks in **Least_Squares_Binary_Classifiers.ipynb** for the Least Squares Binary model.
 ### MLP
-+ Run all blocks in **Multilayer_proceptron_model.ipynb** for the MLP model. And the functions used in this model are:
++ Run all blocks in **Multilayer_proceptron_model.ipynb** for the MLP model. And the layers used in this model are:
++ Base Layer
++ Linear Layer
++ ReLU Layer
++ Softmax Layer
++ Loss function Layer
+### CNN
++ Run all blocks in **torch model.ipynb** for the CNN model. (reshaped 9 features to 3 * 3 image)
 ### Utils:
 + **src/DataLoader.py**: Read the data.
 + **src/evaluation.py**: Compute the accuracy, precision, and recall of a model.
@@ -43,3 +50,4 @@ Currently, we have implemented eight binary classification models to predict whe
 | XGBoost             | 0.694    | 0.713     | 0.682  |
 | Least Squares Binary| 0.633    | 0.638     | 0.622  |
 | MLP                 | 0.624    | 0.634     | 0.614  |
+| pytorch CNN         | 0.606    | 0.603     | 0.624  |
