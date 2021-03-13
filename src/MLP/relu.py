@@ -2,6 +2,9 @@ from .base_layer import BaseLayer
 import numpy as np
 
 class ReLU(BaseLayer):
+    '''
+    description: relu activation layer
+    '''
     def __init__(self):
         self.cache = None
 
