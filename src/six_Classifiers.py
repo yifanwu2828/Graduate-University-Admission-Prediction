@@ -13,8 +13,7 @@ from xgboost import XGBClassifier
 
 if __name__ == '__main__':
 
-    root = os.path.dirname(os.getcwd())
-    file_name = os.path.join(root, 'Data/clean_data.csv')
+    file_name = r'../Data/clean_data.csv'
     x_train, x_test, y_train, y_test = load_data(file_name)
 
     # ========================= Training ==========================
