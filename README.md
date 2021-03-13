@@ -27,7 +27,6 @@ Currently, we have implemented eight binary classification models to predict whe
 + Run all blocks in **Least_Squares_Binary_Classifiers.ipynb** for the Least Squares Binary model.
 ### MLP
 + Run all blocks in **Multilayer_proceptron_model.ipynb** for the MLP model. And the layers used in this model are:
-+ Base Layer
 + Linear Layer
 + ReLU Layer
 + Softmax Layer
