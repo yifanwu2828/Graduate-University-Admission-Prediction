@@ -25,13 +25,14 @@ Currently, we have implemented eight binary classification models to predict whe
 ## File Structure
 ```
 .
-├── Data                # Source data, cleansed data, and conversion tables
-├── ECE143_Web          # Website source
-├── plot_Result         # Analysis figures
+├── Data                            # Source data, cleansed data, and conversion tables
+├── ECE143_Web                      # Website source
+├── plot_Result                     # Analysis figures
 ├── src         
-│    ├── EDA.py         # Code to cleanse data
-│    └── ...            # Prediction models
-└── ...                 # Slides, test cases, and 3rd party modules
+│    ├── EDA.py                     # Code to cleanse data
+│    ├── Data_Visualization.ipynb   # Presentation visualizations
+│    └── ...                        # Prediction models
+└── ...                             # Slides, test cases, and 3rd party modules
 ```
 
 ## How to use this repository
