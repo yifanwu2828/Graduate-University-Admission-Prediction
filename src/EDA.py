@@ -103,8 +103,9 @@ if __name__ == '__main__':
     # pd.pandas.set_option('display.max_rows', None)
 
     # raw dataset or unprocessed dataset
-    data_path = '../Data/original_data.csv'
-    dataset = pd.read_csv(data_path)
+    data_path = '../Data/'
+    fname = 'original_data.csv'
+    dataset = pd.read_csv(data_path+fname)
     # print("Dataset size:", dataset.shape)
     n_sample = dataset.shape[0]
     # raw dataset
@@ -310,6 +311,6 @@ if __name__ == '__main__':
     print(dataset.info())
     print(dataset.describe())
     # Output to .csv
-    SAVE_CSV = False
-    if SAVE_CSV:
-        dataset.to_csv('clean_data.csv', index=False)
+    SAVE_CSV = input('\nSave cleansed data? (y/n): ').lower().strip()[0]
+    if SAVE_CSV=='y':
+        dataset.to_csv(data_path + 'clean_data.csv', index=False)
